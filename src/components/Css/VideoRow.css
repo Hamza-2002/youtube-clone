@@ -1,0 +1,38 @@
+.VideosRow-section{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.VideosRow-section > .VideosRow-info > p{
+    font-size: 14px;
+    color: gray;
+}
+.VideosRow-section > .VideosRow-image{
+    width: 400px;
+    height: 160px;
+}
+.VideosRow-section  >  .VideosRow-image > img{
+    width: 100%;
+}
+
+.VideosRow-section >  .VideosRow-info{
+    margin-left: 30px;
+}
+
+.VideosRow-section >  .VideosRow-info .VideosRow-info-nested{
+    display: flex;
+    align-items: center;
+    margin-top: 14px;
+    margin-bottom: 15px;
+}
+
+.VideosRow-section >  .VideosRow-info .VideosRow-info-nested > p{
+    margin-left: 14px;
+    font-size: 14px;
+    color: gray;
+}
+.VideosRow-section >  .VideosRow-info .VideosRow-info-nested > .Verified{
+    margin-left: 14px;
+    color: gray;
+}

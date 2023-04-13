@@ -1,0 +1,12 @@
+.side-bar {
+    flex: 0.2;
+}
+
+.side-bar .hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* border: none; */
+    font-size: 13px;
+    font-weight: bold;
+
+}
